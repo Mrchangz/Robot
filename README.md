@@ -25,8 +25,9 @@ $$
     y \\
     z
 \end{matrix}
-
 \right ] = z
+$$
+$$
 \left [
 \begin{matrix}
     1 / f_x & 0 & -c_x/f_x \\
@@ -34,6 +35,7 @@ $$
     0 & 0 & 1
 \end{matrix}
 \right ]
+$$
 \left [
 \begin{matrix}
     u \\
