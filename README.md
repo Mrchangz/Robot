@@ -27,15 +27,17 @@ $$
 \end{matrix}
 \right ] = z
 $$
+
 $$
 \left [
 \begin{matrix}
-    1 / f_x & 0 & -c_x/f_x \\
-    0 & 1 / f_y & -c_y/f_y \\
+    1 / f_x & 0 & -c_x/f_x
+    0 & 1 / f_y & -c_y/f_y
     0 & 0 & 1
 \end{matrix}
 \right ]
 $$
+
 $$
 \left [
 \begin{matrix}
