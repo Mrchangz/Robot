@@ -36,6 +36,7 @@ $$
 \end{matrix}
 \right ]
 $$
+$$
 \left [
 \begin{matrix}
     u \\
