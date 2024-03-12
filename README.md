@@ -18,8 +18,8 @@ data/frame-000***.pose.txt:     相机位姿矩阵
 
 已知相机内外参和深度图，可以根据以下公式将深度图的像素坐标$(u, v)$变换到世界坐标系下的坐标$(x, y, z)$得到点云。
 
-
-$\left [$
+$$
+\left [
 \begin{matrix}
     x \\
     y \\
@@ -41,7 +41,7 @@ $\left [$
     1
 \end{matrix}
 \right ]
-
+$$
 
 本步骤需要完成：
 - 实现`fusion.cam_to_world`函数，将深度图转为世界坐标系下的点云
